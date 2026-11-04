@@ -1,6 +1,6 @@
 ﻿# cchyperfine 🚀
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23935860.svg)](https://doi.org/10.5281/zenodo.1234567)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)](https://www.python.org/download/releases/2.7/)
 
