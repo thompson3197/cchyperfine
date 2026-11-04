@@ -1,0 +1,2 @@
+Lifecycle Hook Benchmark Completed.
+Timed Runs Recorded: 3

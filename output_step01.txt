@@ -1,0 +1,4 @@
+Benchmark Result for: echo hello | wc -c
+Elapsed Time (Wall): 269.0 ms
+User CPU Time: 0.0 ms
+System CPU Time: 0.0 ms

@@ -1,0 +1,3 @@
+CI Performance Regression Audit:
+Percentage Difference: 25.0%
+Regression Triggered (>15% slower): True

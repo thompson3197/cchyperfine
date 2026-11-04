@@ -1,0 +1,2 @@
+Automatic Benchmark Summary for: sleep 0.1
+Total Runs Performed: 37

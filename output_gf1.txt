@@ -1,0 +1,2 @@
+Nanosecond Precision Benchmark Results:
+Command: true took 69000005.72 ns

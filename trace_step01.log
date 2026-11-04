@@ -1,0 +1,2 @@
+Preparing execution for: echo hello | wc -c
+Completed timing with return code: 255

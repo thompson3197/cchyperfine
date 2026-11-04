@@ -1,0 +1,11 @@
+Starting lifecycle benchmark for: sleep 0.1
+Executing hook command: echo setup_done
+Executing hook command: echo prep
+Executing hook command: echo conc
+Executing hook command: echo prep
+Executing hook command: echo conc
+Executing hook command: echo prep
+Executing hook command: echo conc
+Executing hook command: echo prep
+Executing hook command: echo conc
+Executing hook command: echo clean_done
